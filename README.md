@@ -8,7 +8,9 @@ Welcome to my profile! I am a passionate developer focused on building interacti
 
 You can reach me via email for collaborations or queries:
 
-[![Email](https://img.shields.io/badge/Email-chherkiisneha%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chherkiisneha@gmail.com)
+<a href="mailto:chherkiisneha@gmail.com"><img src="https://img.shields.io/badge/Email-chherkiisneha%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+📧 **Direct Email Link:** <a href="mailto:chherkiisneha@gmail.com">chherkiisneha@gmail.com</a>
 
 ---
 
