@@ -6,9 +6,10 @@ Welcome to my profile! I am a passionate developer focused on building interacti
 
 ## 📬 Social
 
-You can reach me via email for collaborations or queries:
+You can reach me via email or LinkedIn for collaborations or queries:
 
 <a href="mailto:chherkiisneha@gmail.com"><img src="https://img.shields.io/badge/Email-chherkiisneha%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/isneha-chherki-963375212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-isneha--chherki-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ---
 
